@@ -621,8 +621,7 @@ pl:
         could_not_create_taxon: Nie można utworzyć taksonu
         no_payment_methods_available: Dla tego środowiska nie skonfigurowano żadnych metod płatności
         no_shipping_methods_available: Dla wybranej lokalizacji brak dostępnych metod wysyłki, zmień adres i spróbuj ponownie.
-    errors_prohibited_this_record_from_being_saved:
-      one: błędy uniemożliwiły zachowanie tego zamówienia
+    errors_prohibited_this_record_from_being_saved: błędy uniemożliwiły zachowanie tego zamówienia
     event: Zdarzenie
     events:
       spree:
